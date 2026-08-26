@@ -1,7 +1,7 @@
 Скрипт для автоматической проверки на свободный слот для записи для сдачи на права через Госуслуги. 
 Работает через прямое API Госуслуг, умеет самостоятельно обновлять авторизационную сессию через headless-Chromium и отправлять push-уведомления на телефон через [ntfy.sh](https://ntfy.sh).
 
-Для отправки уведомлений на мобильный телефон используется приложение ntfy. Его можно скачать по ссылкам ниже:
+Для отправки уведомлений на мобильный телефон используется приложение ntfy. Его можно скачать по ссылкам:
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/ntfy/id1625396347)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.heckel.ntfy)
 
